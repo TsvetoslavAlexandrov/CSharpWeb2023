@@ -1,6 +1,3 @@
-
-
-
 using Forum.Data;
 using Microsoft.EntityFrameworkCore;
 
