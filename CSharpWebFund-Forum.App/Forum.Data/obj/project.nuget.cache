@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wfp7+I4aLpFSasgiO6BWAsIUMM+PNwAsAXEiHZl/k15Gv2Y30w/q7ZmrSFtNca0afWg9WNW39jKXDcvZY3mh5A==",
+  "dgSpecHash": "1VNY0sJRKiCFwFqAK7qflE73DXpHJFmAlpIUKf+mJ1kCQ0k6mg9a2t8qyOWuw68WBcu1XtLwXG1yYXXyzHtmHQ==",
   "success": true,
-  "projectFilePath": "D:\\WebProject\\CSharpWebFund-Forum.App\\Forum.Data\\Forum.Data.csproj",
+  "projectFilePath": "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.Data\\Forum.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lomskij\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\lomskij\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

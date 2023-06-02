@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WebProject\\CSharpWebFund-Forum.App\\Forum.App\\Forum.App.csproj": {}
+    "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.App\\Forum.App.csproj": {}
   },
   "projects": {
-    "D:\\WebProject\\CSharpWebFund-Forum.App\\Forum.App\\Forum.App.csproj": {
+    "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.App\\Forum.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WebProject\\CSharpWebFund-Forum.App\\Forum.App\\Forum.App.csproj",
+        "projectUniqueName": "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.App\\Forum.App.csproj",
         "projectName": "Forum.App",
-        "projectPath": "D:\\WebProject\\CSharpWebFund-Forum.App\\Forum.App\\Forum.App.csproj",
+        "projectPath": "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.App\\Forum.App.csproj",
         "packagesPath": "C:\\Users\\lomskij\\.nuget\\packages\\",
-        "outputPath": "D:\\WebProject\\CSharpWebFund-Forum.App\\Forum.App\\obj\\",
+        "outputPath": "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lomskij\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\WebProject\\CSharpWebFund-Forum.App\\Forum.Data\\Forum.Data.csproj": {
-                "projectPath": "D:\\WebProject\\CSharpWebFund-Forum.App\\Forum.Data\\Forum.Data.csproj"
+              "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.Data\\Forum.Data.csproj": {
+                "projectPath": "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.Data\\Forum.Data.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "D:\\WebProject\\CSharpWebFund-Forum.App\\Forum.Common\\Forum.Common.csproj": {
+    "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.Common\\Forum.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WebProject\\CSharpWebFund-Forum.App\\Forum.Common\\Forum.Common.csproj",
+        "projectUniqueName": "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.Common\\Forum.Common.csproj",
         "projectName": "Forum.Common",
-        "projectPath": "D:\\WebProject\\CSharpWebFund-Forum.App\\Forum.Common\\Forum.Common.csproj",
+        "projectPath": "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.Common\\Forum.Common.csproj",
         "packagesPath": "C:\\Users\\lomskij\\.nuget\\packages\\",
-        "outputPath": "D:\\WebProject\\CSharpWebFund-Forum.App\\Forum.Common\\obj\\",
+        "outputPath": "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lomskij\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -144,14 +144,14 @@
         }
       }
     },
-    "D:\\WebProject\\CSharpWebFund-Forum.App\\Forum.Data.Models\\Forum.Data.Models.csproj": {
+    "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.Data.Models\\Forum.Data.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WebProject\\CSharpWebFund-Forum.App\\Forum.Data.Models\\Forum.Data.Models.csproj",
+        "projectUniqueName": "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.Data.Models\\Forum.Data.Models.csproj",
         "projectName": "Forum.Data.Models",
-        "projectPath": "D:\\WebProject\\CSharpWebFund-Forum.App\\Forum.Data.Models\\Forum.Data.Models.csproj",
+        "projectPath": "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.Data.Models\\Forum.Data.Models.csproj",
         "packagesPath": "C:\\Users\\lomskij\\.nuget\\packages\\",
-        "outputPath": "D:\\WebProject\\CSharpWebFund-Forum.App\\Forum.Data.Models\\obj\\",
+        "outputPath": "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.Data.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lomskij\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -168,8 +168,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\WebProject\\CSharpWebFund-Forum.App\\Forum.Common\\Forum.Common.csproj": {
-                "projectPath": "D:\\WebProject\\CSharpWebFund-Forum.App\\Forum.Common\\Forum.Common.csproj"
+              "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.Common\\Forum.Common.csproj": {
+                "projectPath": "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.Common\\Forum.Common.csproj"
               }
             }
           }
@@ -203,14 +203,14 @@
         }
       }
     },
-    "D:\\WebProject\\CSharpWebFund-Forum.App\\Forum.Data\\Forum.Data.csproj": {
+    "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.Data\\Forum.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WebProject\\CSharpWebFund-Forum.App\\Forum.Data\\Forum.Data.csproj",
+        "projectUniqueName": "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.Data\\Forum.Data.csproj",
         "projectName": "Forum.Data",
-        "projectPath": "D:\\WebProject\\CSharpWebFund-Forum.App\\Forum.Data\\Forum.Data.csproj",
+        "projectPath": "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.Data\\Forum.Data.csproj",
         "packagesPath": "C:\\Users\\lomskij\\.nuget\\packages\\",
-        "outputPath": "D:\\WebProject\\CSharpWebFund-Forum.App\\Forum.Data\\obj\\",
+        "outputPath": "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lomskij\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -227,8 +227,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\WebProject\\CSharpWebFund-Forum.App\\Forum.Data.Models\\Forum.Data.Models.csproj": {
-                "projectPath": "D:\\WebProject\\CSharpWebFund-Forum.App\\Forum.Data.Models\\Forum.Data.Models.csproj"
+              "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.Data.Models\\Forum.Data.Models.csproj": {
+                "projectPath": "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.Data.Models\\Forum.Data.Models.csproj"
               }
             }
           }

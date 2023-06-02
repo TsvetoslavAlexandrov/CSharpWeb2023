@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QeWMKxRsjaTsEIjdASeesRsFZRYAqPNvazWVf99Yr8Yzhl4ca1k0STDXJDFX5efVPuu1+D+3hJvS3aNCdvg+lg==",
+  "dgSpecHash": "WcxE6oMdJgVN4Jhr8Tkgoi9S1zPUe+z94Vy6ymCVzHsXbCe2x0Fn8THf2DnOhyK/KrbPUkkqTRoxW76XFKUeHQ==",
   "success": true,
-  "projectFilePath": "D:\\WebProject\\CSharpWebFund-Forum.App\\Forum.Common\\Forum.Common.csproj",
+  "projectFilePath": "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.Common\\Forum.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

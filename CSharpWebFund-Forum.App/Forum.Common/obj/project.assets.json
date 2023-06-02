@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WebProject\\CSharpWebFund-Forum.App\\Forum.Common\\Forum.Common.csproj",
+      "projectUniqueName": "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.Common\\Forum.Common.csproj",
       "projectName": "Forum.Common",
-      "projectPath": "D:\\WebProject\\CSharpWebFund-Forum.App\\Forum.Common\\Forum.Common.csproj",
+      "projectPath": "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.Common\\Forum.Common.csproj",
       "packagesPath": "C:\\Users\\lomskij\\.nuget\\packages\\",
-      "outputPath": "D:\\WebProject\\CSharpWebFund-Forum.App\\Forum.Common\\obj\\",
+      "outputPath": "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lomskij\\AppData\\Roaming\\NuGet\\NuGet.Config",
