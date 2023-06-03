@@ -277,7 +277,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.Common\\Forum.Common.csproj": {
+                "projectPath": "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.Common\\Forum.Common.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
