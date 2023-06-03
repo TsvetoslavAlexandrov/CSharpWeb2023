@@ -1,0 +1,12 @@
+D:\WebProject\CSharpWeb2023\CSharpWebFund-Forum.App\Forum.ViewModels\bin\Debug\net6.0\Forum.ViewModels.deps.json
+D:\WebProject\CSharpWeb2023\CSharpWebFund-Forum.App\Forum.ViewModels\bin\Debug\net6.0\Forum.ViewModels.dll
+D:\WebProject\CSharpWeb2023\CSharpWebFund-Forum.App\Forum.ViewModels\bin\Debug\net6.0\Forum.ViewModels.pdb
+D:\WebProject\CSharpWeb2023\CSharpWebFund-Forum.App\Forum.ViewModels\obj\Debug\net6.0\Forum.ViewModels.csproj.AssemblyReference.cache
+D:\WebProject\CSharpWeb2023\CSharpWebFund-Forum.App\Forum.ViewModels\obj\Debug\net6.0\Forum.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebProject\CSharpWeb2023\CSharpWebFund-Forum.App\Forum.ViewModels\obj\Debug\net6.0\Forum.ViewModels.AssemblyInfoInputs.cache
+D:\WebProject\CSharpWeb2023\CSharpWebFund-Forum.App\Forum.ViewModels\obj\Debug\net6.0\Forum.ViewModels.AssemblyInfo.cs
+D:\WebProject\CSharpWeb2023\CSharpWebFund-Forum.App\Forum.ViewModels\obj\Debug\net6.0\Forum.ViewModels.csproj.CoreCompileInputs.cache
+D:\WebProject\CSharpWeb2023\CSharpWebFund-Forum.App\Forum.ViewModels\obj\Debug\net6.0\Forum.ViewModels.dll
+D:\WebProject\CSharpWeb2023\CSharpWebFund-Forum.App\Forum.ViewModels\obj\Debug\net6.0\refint\Forum.ViewModels.dll
+D:\WebProject\CSharpWeb2023\CSharpWebFund-Forum.App\Forum.ViewModels\obj\Debug\net6.0\Forum.ViewModels.pdb
+D:\WebProject\CSharpWeb2023\CSharpWebFund-Forum.App\Forum.ViewModels\obj\Debug\net6.0\ref\Forum.ViewModels.dll

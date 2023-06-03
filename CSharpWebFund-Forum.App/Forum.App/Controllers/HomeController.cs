@@ -5,7 +5,6 @@ using System.Diagnostics;
 
 using ViewModels;
 
-
 public class HomeController : Controller
 { 
     public HomeController()

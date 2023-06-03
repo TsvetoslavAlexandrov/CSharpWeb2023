@@ -9,6 +9,8 @@
       "Forum.App/1.0.0": {
         "dependencies": {
           "Forum.Data": "1.0.0",
+          "Forum.Services": "1.0.0",
+          "Forum.ViewModels": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.5",
           "Microsoft.EntityFrameworkCore.Design": "7.0.5",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.5",
@@ -722,6 +724,21 @@
         "runtime": {
           "Forum.Data.Models.dll": {}
         }
+      },
+      "Forum.Services/1.0.0": {
+        "dependencies": {
+          "Forum.Data": "1.0.0",
+          "Forum.Data.Models": "1.0.0",
+          "Forum.ViewModels": "1.0.0"
+        },
+        "runtime": {
+          "Forum.Services.dll": {}
+        }
+      },
+      "Forum.ViewModels/1.0.0": {
+        "runtime": {
+          "Forum.ViewModels.dll": {}
+        }
       }
     }
   },
@@ -1218,6 +1235,16 @@
       "sha512": ""
     },
     "Forum.Data.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Forum.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Forum.ViewModels/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

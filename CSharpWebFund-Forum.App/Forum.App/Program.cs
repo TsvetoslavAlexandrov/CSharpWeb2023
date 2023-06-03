@@ -1,4 +1,6 @@
 using Forum.Data;
+using Forum.Services;
+using Forum.Services.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -7,7 +9,7 @@ var connectionString = builder.Configuration.GetConnectionString("DefaultConnect
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<ForumDbContext>(opt => opt.UseSqlServer(connectionString));
-
+builder.Services.AddScoped<IPostService, PostService>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

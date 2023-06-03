@@ -10,3 +10,15 @@ D:\WebProject\CSharpWebFund-Forum.App\Forum.Common\obj\Debug\net6.0\Forum.Common
 D:\WebProject\CSharpWebFund-Forum.App\Forum.Common\obj\Debug\net6.0\refint\Forum.Common.dll
 D:\WebProject\CSharpWebFund-Forum.App\Forum.Common\obj\Debug\net6.0\Forum.Common.pdb
 D:\WebProject\CSharpWebFund-Forum.App\Forum.Common\obj\Debug\net6.0\ref\Forum.Common.dll
+D:\WebProject\CSharpWeb2023\CSharpWebFund-Forum.App\Forum.Common\bin\Debug\net6.0\Forum.Common.deps.json
+D:\WebProject\CSharpWeb2023\CSharpWebFund-Forum.App\Forum.Common\bin\Debug\net6.0\Forum.Common.dll
+D:\WebProject\CSharpWeb2023\CSharpWebFund-Forum.App\Forum.Common\bin\Debug\net6.0\Forum.Common.pdb
+D:\WebProject\CSharpWeb2023\CSharpWebFund-Forum.App\Forum.Common\obj\Debug\net6.0\Forum.Common.csproj.AssemblyReference.cache
+D:\WebProject\CSharpWeb2023\CSharpWebFund-Forum.App\Forum.Common\obj\Debug\net6.0\Forum.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebProject\CSharpWeb2023\CSharpWebFund-Forum.App\Forum.Common\obj\Debug\net6.0\Forum.Common.AssemblyInfoInputs.cache
+D:\WebProject\CSharpWeb2023\CSharpWebFund-Forum.App\Forum.Common\obj\Debug\net6.0\Forum.Common.AssemblyInfo.cs
+D:\WebProject\CSharpWeb2023\CSharpWebFund-Forum.App\Forum.Common\obj\Debug\net6.0\Forum.Common.csproj.CoreCompileInputs.cache
+D:\WebProject\CSharpWeb2023\CSharpWebFund-Forum.App\Forum.Common\obj\Debug\net6.0\Forum.Common.dll
+D:\WebProject\CSharpWeb2023\CSharpWebFund-Forum.App\Forum.Common\obj\Debug\net6.0\refint\Forum.Common.dll
+D:\WebProject\CSharpWeb2023\CSharpWebFund-Forum.App\Forum.Common\obj\Debug\net6.0\Forum.Common.pdb
+D:\WebProject\CSharpWeb2023\CSharpWebFund-Forum.App\Forum.Common\obj\Debug\net6.0\ref\Forum.Common.dll

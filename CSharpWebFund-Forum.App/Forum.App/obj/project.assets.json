@@ -1192,6 +1192,31 @@
         "runtime": {
           "bin/placeholder/Forum.Data.Models.dll": {}
         }
+      },
+      "Forum.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Forum.Data": "1.0.0",
+          "Forum.Data.Models": "1.0.0",
+          "Forum.ViewModels": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Forum.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Forum.Services.dll": {}
+        }
+      },
+      "Forum.ViewModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Forum.ViewModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Forum.ViewModels.dll": {}
+        }
       }
     }
   },
@@ -3552,11 +3577,23 @@
       "type": "project",
       "path": "../Forum.Data.Models/Forum.Data.Models.csproj",
       "msbuildProject": "../Forum.Data.Models/Forum.Data.Models.csproj"
+    },
+    "Forum.Services/1.0.0": {
+      "type": "project",
+      "path": "../Forum.Services/Forum.Services.csproj",
+      "msbuildProject": "../Forum.Services/Forum.Services.csproj"
+    },
+    "Forum.ViewModels/1.0.0": {
+      "type": "project",
+      "path": "../Forum.ViewModels/Forum.ViewModels.csproj",
+      "msbuildProject": "../Forum.ViewModels/Forum.ViewModels.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Forum.Data >= 1.0.0",
+      "Forum.Services >= 1.0.0",
+      "Forum.ViewModels >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.5",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.5",
@@ -3593,6 +3630,12 @@
           "projectReferences": {
             "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.Data\\Forum.Data.csproj": {
               "projectPath": "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.Data\\Forum.Data.csproj"
+            },
+            "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.Services\\Forum.Services.csproj": {
+              "projectPath": "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.Services\\Forum.Services.csproj"
+            },
+            "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.ViewModels\\Forum.ViewModels.csproj": {
+              "projectPath": "D:\\WebProject\\CSharpWeb2023\\CSharpWebFund-Forum.App\\Forum.ViewModels\\Forum.ViewModels.csproj"
             }
           }
         }
