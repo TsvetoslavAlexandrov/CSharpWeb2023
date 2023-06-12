@@ -10464,11 +10464,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WebProject\\10.Exam-Preparation-Library-Skeleton\\Library\\Library.csproj",
+      "projectUniqueName": "D:\\WebProject\\CSharpWeb2023\\10.Exam-Preparation-Library-Skeleton\\Library\\Library.csproj",
       "projectName": "Library",
-      "projectPath": "D:\\WebProject\\10.Exam-Preparation-Library-Skeleton\\Library\\Library.csproj",
+      "projectPath": "D:\\WebProject\\CSharpWeb2023\\10.Exam-Preparation-Library-Skeleton\\Library\\Library.csproj",
       "packagesPath": "C:\\Users\\lomskij\\.nuget\\packages\\",
-      "outputPath": "D:\\WebProject\\10.Exam-Preparation-Library-Skeleton\\Library\\obj\\",
+      "outputPath": "D:\\WebProject\\CSharpWeb2023\\10.Exam-Preparation-Library-Skeleton\\Library\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lomskij\\AppData\\Roaming\\NuGet\\NuGet.Config",

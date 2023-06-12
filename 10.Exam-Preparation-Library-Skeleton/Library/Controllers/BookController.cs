@@ -1,9 +1,6 @@
 ﻿using Library.Contract;
-using Library.Data;
 using Library.ViewModels;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using Library.Services;
 namespace Library.Controllers
 {
     public class BookController : BaseController
@@ -16,7 +13,7 @@ namespace Library.Controllers
         }
 
         [HttpPost]
-        private async Task<IActionResult> All()
+        public async Task<IActionResult> All()
         {
             IEnumerable<ViewModelBooks> allBooks =
                 await this._bookService.GetAllBooksAsync();

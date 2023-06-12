@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vpxunwZe5mcNfFTGOqPdkNOts/HI5TE5FApXJEntiEO2mMhSIBcTYDiF648T3+gQJIclPfDlLfie+xnBm16Nwg==",
+  "dgSpecHash": "DkjgsExwLqIfj6+J7F1zWwj/oB31d6lnaPb3x9Kg+IMKqPwuE30qombRVwjyh5nD6jL1fMzUjvijSe/hcX1Pew==",
   "success": true,
-  "projectFilePath": "D:\\WebProject\\10.Exam-Preparation-Library-Skeleton\\Library\\Library.csproj",
+  "projectFilePath": "D:\\WebProject\\CSharpWeb2023\\10.Exam-Preparation-Library-Skeleton\\Library\\Library.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lomskij\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\lomskij\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

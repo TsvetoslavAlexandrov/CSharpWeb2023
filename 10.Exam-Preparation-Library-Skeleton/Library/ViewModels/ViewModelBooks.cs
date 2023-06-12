@@ -1,9 +1,4 @@
-﻿using Library.Data.Models;
-using System.ComponentModel.DataAnnotations.Schema;
-using System.ComponentModel.DataAnnotations;
-using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.MinimalApi;
-
-namespace Library.ViewModels
+﻿namespace Library.ViewModels
 {
     public class ViewModelBooks
     {
@@ -15,8 +10,10 @@ namespace Library.ViewModels
 
         public string ImageUrl { get; set; } = null!;
 
-        public decimal Rating { get; set; }
-        
+        public decimal? Rating { get; set; }
+
+        public string? Description { get; set; }
+
         public string Category { get; set; } = null!;
     }
 }
