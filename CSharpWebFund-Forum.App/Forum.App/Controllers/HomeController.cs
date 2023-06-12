@@ -1,31 +1,32 @@
-﻿namespace Forum.App.Controllers;
+﻿namespace Forum.App.Controllers
+{
+    using System.Diagnostics;
 
-using Microsoft.AspNetCore.Mvc;
-using System.Diagnostics;
+    using Microsoft.AspNetCore.Mvc;
 
-using ViewModels;
+    using ViewModels;
 
-public class HomeController : Controller
-{ 
-    public HomeController()
+    public class HomeController : Controller
     {
-        
-    }
+        public HomeController()
+        {
 
-    public IActionResult Index()
-    {
-        return View();
-    }
+        }
 
-    public IActionResult Privacy()
-    {
-        return View();
-    }
-   
+        public IActionResult Index()
+        {
+            return View();
+        }
 
-    [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-    public IActionResult Error()
-    {
-        return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        public IActionResult Privacy()
+        {
+            return View();
+        }
+
+        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        public IActionResult Error()
+        {
+            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
     }
 }
