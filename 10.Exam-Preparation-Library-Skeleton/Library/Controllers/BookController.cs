@@ -1,8 +1,10 @@
 ﻿using Library.Contract;
-using Library.ViewModels;
 using Microsoft.AspNetCore.Mvc;
+using System.Security.Claims;
+
 namespace Library.Controllers
 {
+
     public class BookController : BaseController
     {
         private readonly IBookService _bookService;
@@ -12,15 +14,31 @@ namespace Library.Controllers
             this._bookService = bookService; 
         }
 
-        [HttpPost]
         public async Task<IActionResult> All()
         {
-            IEnumerable<ViewModelBooks> allBooks =
-                await this._bookService.GetAllBooksAsync();
+            var allBooks = await _bookService.GetAllBooksAsync();
 
             return View(allBooks);
         }
 
-        
+        [HttpPost]
+        public async Task<IActionResult> AddToCollection(int bookId)
+        {
+
+            try
+            {
+                string userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+                await _bookService.AddBookToCollectionAsync(bookId, userId);
+
+            }
+            catch (Exception)
+            {
+                ModelState.AddModelError(string.Empty, "Something went wrong. Please try again!");
+            }
+            return RedirectToAction(nameof(All));
+
+        }
+
+
     }
 }

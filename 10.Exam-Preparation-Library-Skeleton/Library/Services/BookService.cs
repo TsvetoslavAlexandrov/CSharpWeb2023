@@ -14,6 +14,7 @@ namespace Library.Services
             this.dbContext = dbContext;
         }
 
+
         public async Task<IEnumerable<ViewModelBooks>> GetAllBooksAsync()
         {
            return await dbContext
@@ -28,6 +29,12 @@ namespace Library.Services
                     Category = p.Category.Name
                 })
                 .ToArrayAsync();
+        }
+
+
+        public Task AddBookToCollectionAsync(int bookId, string userId)
+        {
+            throw new NotImplementedException();
         }
     }
 }

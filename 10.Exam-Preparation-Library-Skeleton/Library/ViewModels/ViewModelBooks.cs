@@ -1,7 +1,10 @@
-﻿namespace Library.ViewModels
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Library.ViewModels
 {
     public class ViewModelBooks
     {
+        [UIHint("hidden")]
         public int Id { get; set; }
 
         public string Title { get; set; } = null!;
@@ -10,10 +13,8 @@
 
         public string ImageUrl { get; set; } = null!;
 
-        public decimal? Rating { get; set; }
-
-        public string? Description { get; set; }
-
+        public decimal Rating { get; set; }
+        
         public string Category { get; set; } = null!;
     }
 }
