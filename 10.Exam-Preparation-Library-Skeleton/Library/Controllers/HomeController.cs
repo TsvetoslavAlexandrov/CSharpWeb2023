@@ -1,6 +1,6 @@
-﻿using Library.Models;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using Library.ViewModels;
 using Microsoft.AspNetCore.Authorization;
 
 namespace Library.Controllers

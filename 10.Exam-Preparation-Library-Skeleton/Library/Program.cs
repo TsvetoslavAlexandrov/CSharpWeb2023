@@ -1,4 +1,4 @@
-using Library.Contract;
+using Library.Contracts;
 using Library.Data;
 using Library.Services;
 using Microsoft.AspNetCore.Identity;
@@ -16,6 +16,7 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
     .AddEntityFrameworkStores<LibraryDbContext>();
 builder.Services.Configure<IdentityOptions>(options =>
 {
+    // Password settings.
     options.Password.RequireDigit = false;
     options.Password.RequireNonAlphanumeric = false;
     options.Password.RequireUppercase = false;
@@ -23,7 +24,7 @@ builder.Services.Configure<IdentityOptions>(options =>
 
 builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<IBookService, BookService>();
- 
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

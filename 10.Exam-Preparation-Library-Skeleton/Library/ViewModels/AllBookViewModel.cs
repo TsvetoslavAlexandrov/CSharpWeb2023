@@ -1,6 +1,6 @@
 ﻿namespace Library.ViewModels
 {
-    public class ViewModelBooks
+    public class AllBookViewModel
     {
         public int Id { get; set; }
 
@@ -17,3 +17,4 @@
         public string Category { get; set; } = null!;
     }
 }
+
