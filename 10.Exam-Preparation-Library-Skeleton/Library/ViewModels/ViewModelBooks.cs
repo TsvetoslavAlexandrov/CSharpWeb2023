@@ -1,20 +1,21 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Library.ViewModels
+namespace Library.ViewModels;
+
+public class ViewModelBooks
 {
-    public class ViewModelBooks
-    {
-        [UIHint("hidden")]
-        public int Id { get; set; }
+    [UIHint("hidden")]
+    public int Id { get; set; }
 
-        public string Title { get; set; } = null!;
+    public string Title { get; set; } = null!;
 
-        public string Author { get; set; } = null!;
+    public string Author { get; set; } = null!;
+    
+    public string ImageUrl { get; set; } = null!;
 
-        public string ImageUrl { get; set; } = null!;
-
-        public decimal Rating { get; set; }
+    public decimal? Rating { get; set; }
         
-        public string Category { get; set; } = null!;
-    }
+    public string? Description { get; set; } 
+
+    public string Category { get; set; } = null!;
 }
